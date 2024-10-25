@@ -1,0 +1,18 @@
+/* Membuat tombol status menjadi oval */
+.status-btn {
+    border-radius: 50px; /* Nilai besar untuk membuat tombol oval */
+    padding: 5px 10px;  /* Tambah padding agar tombol terlihat lebih besar */
+}
+
+/* Membuat tombol aksi (Ubah dan Hapus) menjadi oval */
+.action-btn {
+    border-radius: 50px; /* Nilai besar untuk membuat tombol oval */
+    padding: 5px 15px;   /* Tambahkan padding pada tombol aksi */
+    margin: 0 5px;       /* Memberikan jarak antar tombol */
+}
+
+/* Mengatur padding dan margin pada tombol aksi */
+.btn-sm {
+    padding: 5px 10px;
+    margin: 0 5px;
+}
